@@ -1,0 +1,109 @@
+---
+- !ruby/object:HTTP::Cookie
+  name: dslang
+  value: US-EN
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: 2022-10-19 10:20:37.825268000 +08:00
+  accessed_at: &1 2022-10-19 10:20:37.896571000 +08:00
+- !ruby/object:HTTP::Cookie
+  name: site
+  value: USA
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: 2022-10-19 10:20:37.825496000 +08:00
+  accessed_at: *1
+- !ruby/object:HTTP::Cookie
+  name: acn01
+  value: o6J7IqmCBjvzo8Du+IXD2ro/buuo/TF7ebBqW7l3jF4AFYG9zFtcsg==
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 31536000
+  created_at: 2022-10-19 10:20:37.825886000 +08:00
+  accessed_at: *1
+- !ruby/object:HTTP::Cookie
+  name: myacinfo
+  value: DAWTKNV323952cf8084a204fb20ab2508441a07d02d378f4811b83fa0e280ab9e2bfabddda902fa84eed364aa547cc31bf5f12998039fe52b9afdb3434679691039dfce6eb8f841e5e91dd809ebccf3626ed907549aa75fa9c212cc7639074f5f89a7743b722c617f0f7188d66cd2ce1bc1957cd01ad43d5494bf6206e3879ecb5720d8064434d02e52b68f28110dfee74024bcf7957156226f4ec020e73ab9c9609b6a89677b922391929df1bb145c34a5ca034d2ac710d8058114dc7540262d9b92fa54a49f8ef20725ce9b61d33385b10642117006492e066a691305faafd0ddc66784934f0139322c0a403bbe446fa5a96b3dc180c2faa2105fd7741d78b8b83f7659b6abd8b9a9aaf62202afa297debe0c98f2434d35d998f857ddbb8125e91e3478779f72a2e06ec921085e9c34c4ef073591f0d856e37e34705232a160acf88c11becb39b685b25417c50800ac4750470f695325e5fee020241ae195a5a210442fa7a0e9fe02eea57022fd8fb0641e996194e5732328ff8679ffb5d990740fa1176a3479ca6f2c2bbc5425f1440c3396a538e94638d7faaf8361f5b37c8ea72a24a616588e56a1523adaeb65d84322b87d8c296bc7557f78dad9c5675daf572c22748cf05c4885c3d704a6f46632abc18822f7993dac557335a6245465fdf6fd799d6d5357e459d5b57ec550387ea69e94ec88eb168dd5438c45aa3568cc19015d12b585a47V3
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: 2022-10-19 10:20:37.826278000 +08:00
+  accessed_at: *1
+- !ruby/object:HTTP::Cookie
+  name: itctx
+  value: eyJjcCI6MTI0OTk0MTMxLCJkcyI6MjA2MDk1NzIzMjEsImV4IjoiMjAyMi0xMC0xOSAxMDoyMDozOCJ9|5gbp3s3ivninfpi8c1k1ba9hdl|FlAQ5ubmoHNN7piEhTaUm4Z0JB8
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: &2 2022-10-19 10:20:38.478312000 +08:00
+  accessed_at: *2
+- !ruby/object:HTTP::Cookie
+  name: itcdq
+  value: '0'
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: false
+  expires: 
+  max_age: 
+  created_at: 2022-10-19 10:19:00.697426000 +08:00
+  accessed_at: *1
+- !ruby/object:HTTP::Cookie
+  name: aasp
+  value: '039ABFA703F66A9063EA80B284AFABD31B83871A90F699C7ADE2A8C11DCABDD91D96D3FB97A1DD126BF5727F3CC6556C3722674B078702B8E73A662391E7F3A225FA5BE340D3D59D8DFC23771DD5888BC1ED708704784B878D6922D5BF2DE0ED8C99B72ECE36A24B6DF31A11C444013585298FBB977BCA72'
+  domain: idmsa.apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: 2022-10-19 10:18:37.277259000 +08:00
+  accessed_at: &3 2022-10-19 10:20:36.862133000 +08:00
+- !ruby/object:HTTP::Cookie
+  name: DES5240bb1ab5db1397b9bb611db254b7d77
+  value: HSARMTKNSRVXWFlaOikL4i7s/alNWDdEwqp9xbG9oTgDx8orVM5Kr7otODicaCAZYSCynVCQ7h2PPVq0d6wtQqMAA1jvNlC7By0EkdRztL2sy4hV+BNH+dcBB+/3xTa80u9TCJKechwp7rLC8R9sgQ3IHr+g/qorADfT46b6B8OrNBlpp4p0dlLqpVA/6u2WSRVX
+  domain: idmsa.apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 2592000
+  created_at: 2022-10-19 10:19:00.004570000 +08:00
+  accessed_at: *3
+- !ruby/object:HTTP::Cookie
+  name: dqsid
+  value: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjYxNDU5NDAsImp0aSI6IlNFOE1VQlRRVHFKTmxhazF0cUlsTlEifQ.IJnTT29BPGMKPob1VPZm6AtZV62cqemSLpqbtFUXI_k
+  domain: appstoreconnect.apple.com
+  for_domain: false
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 1800
+  created_at: &4 2022-10-19 10:20:38.478101000 +08:00
+  accessed_at: *4
