@@ -10,7 +10,7 @@
   expires: 
   max_age: 
   created_at: 2022-10-24 14:39:38.026394000 +08:00
-  accessed_at: &1 2022-10-24 14:39:38.038129000 +08:00
+  accessed_at: &1 2022-10-24 15:43:18.825685000 +08:00
 - !ruby/object:HTTP::Cookie
   name: site
   value: USA
@@ -49,7 +49,7 @@
   accessed_at: *1
 - !ruby/object:HTTP::Cookie
   name: itctx
-  value: eyJjcCI6MTI1MDQwNjc0LCJkcyI6MTc2MzYxMzM0MTksImV4IjoiMjAyMi0xMC0yNCAxNDozOTozOSJ9|cmckb8anhr9tfi420cli8ko0qb|xcdZEQgirkS9HHpPoCT8M5BivDU
+  value: eyJjcCI6MTI1MDQwNjc0LCJkcyI6MTc2MzYxMzM0MTksImV4IjoiMjAyMi0xMC0yNCAxNTo0MzoxOSJ9|5v9g569m1huppmjjevibgfvf2g|osLuvSkf55vjwIwLytwSsGPG5yY
   domain: apple.com
   for_domain: true
   path: "/"
@@ -57,7 +57,7 @@
   httponly: true
   expires: 
   max_age: 
-  created_at: &2 2022-10-24 14:39:39.200157000 +08:00
+  created_at: &2 2022-10-24 15:43:19.780563000 +08:00
   accessed_at: *2
 - !ruby/object:HTTP::Cookie
   name: itcdq
@@ -69,8 +69,8 @@
   httponly: false
   expires: 
   max_age: 
-  created_at: &3 2022-10-24 14:39:39.200331000 +08:00
-  accessed_at: *3
+  created_at: 2022-10-24 14:39:39.200331000 +08:00
+  accessed_at: *1
 - !ruby/object:HTTP::Cookie
   name: aasp
   value: 8466964DC391366D07A97721086A19D25B47017B7F49972CAEB13B13468FB12D85655909FD7C4C729269035453AB44F04EA2272C8D8DB92F4A88599CA2F615E8A84E680F77442661A0C2FF9A3F4146282ECB834A92862379CB6B58643D5F80DEA9BADB01ADDB718FF3DE9BBE587B4F23AF0C83717557F79F
@@ -93,11 +93,11 @@
   httponly: true
   expires: 
   max_age: 2592000
-  created_at: &4 2022-10-24 14:39:38.026984000 +08:00
-  accessed_at: *4
+  created_at: &3 2022-10-24 14:39:38.026984000 +08:00
+  accessed_at: *3
 - !ruby/object:HTTP::Cookie
   name: dqsid
-  value: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjY1OTM1NzgsImp0aSI6IlFZTmVoVHFZZml5M1ZWLU9sODZTbEEifQ.AENDRiMI3-zkcRlir92S8kSIU3Q9t0ZojLzHj1rDrM4
+  value: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjY1OTczOTksImp0aSI6ImkxbkRuWUQ0M2RRcVlXdl8zalUxM0EifQ.AAfXgZVpKK0-iiOTU4jn1L_I-J-g4DMmsgHDLEL6WIU
   domain: appstoreconnect.apple.com
   for_domain: false
   path: "/"
@@ -105,5 +105,5 @@
   httponly: true
   expires: 
   max_age: 1800
-  created_at: &5 2022-10-24 14:39:39.199912000 +08:00
-  accessed_at: *5
+  created_at: &4 2022-10-24 15:43:19.780285000 +08:00
+  accessed_at: *4
