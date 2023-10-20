@@ -1,0 +1,109 @@
+---
+- !ruby/object:HTTP::Cookie
+  name: dslang
+  value: US-EN
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: 2023-10-20 13:02:42.322730000 +08:00
+  accessed_at: &1 2023-10-20 13:02:42.332366000 +08:00
+- !ruby/object:HTTP::Cookie
+  name: site
+  value: USA
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: 2023-10-20 13:02:42.322952000 +08:00
+  accessed_at: *1
+- !ruby/object:HTTP::Cookie
+  name: acn01
+  value: 6/QEL4vOUY/tEEnpmT3YNktE/42+2Eo1S43pL9ZZWEQyhGWZoQACnUcvSU1j
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 31536000
+  created_at: 2023-10-20 13:02:26.885897000 +08:00
+  accessed_at: *1
+- !ruby/object:HTTP::Cookie
+  name: myacinfo
+  value: DAWTKNV323952cf8084a204fb20ab2508441a07d02d37751885af7edec4d44899fadebfa55b2a4075c39382045a9039b205a5dbc080e9284c397f6d0f7a010df7b8a9d0a358e5e3ad87f9d6e68d352b7ccfecc62d8af61c2f083075fe5ddcb8ffb474d783a354e0fbace3272015b8e5d6f2da63d40b6f79f08b1bcd5227d664a6407aa49ca41f1dca5ce22c38d3cbf59cab989f46396c7c9c9dbb6ddcd3e4bb5e2483d0f97d349a5cf064312ced023be7ca5395966816c2b2a1b8031ceffd7351fbfaaabf5ffe687d3ccebe5472c2fe8c1cd85c54147f2afbf9ff8fb5183f0818b9cc04e6d9108e23f05f4f378c9394b352311fb0782bf52a57fdb6c7deab7badc09a52e80ad2acf18e7897dcf06e43de70461017003d91329a6ca314a9dd4be1077df06d1a2791a76e7d1a5208f9490d4f6d407392cbd2950ff75b3b0cf2e383ea5c9283272cd9d401ea906410d9a5c35f6a018ee0459cf332c04fb41b5e0e03fd91ecbf2b3d3772fce4bf467c7dc154ff735ef01c54b6026f9c22adf95b7d959f89ea2266dcb377b9d93eb83f3ba764e8d3327e349e29514f8a91a8b1164cbeb6d130a2fd7705ebf8f12ba8eae27c04376db5c609d91594c0367bdab3ac92503b3a89ec307e20574c3c2ee9bb2ff3f2c0a26a20cdc34c9b3176fae0f6fa25b6ba71b57aa9047dc93ed2ad295e38c69c3cd10efe08bdee63c8d8ec92b60816efa7f75351d47d2842d11d9a4d9bc3b9a77d8985f5a3749b13dfd61a9d7a65b0db522ead09e66547807e05c5de4a66ecbbea306068f4133cd8390a2750f8a586202c08bece2e61efc0562faf585d1de6ce7cf225133f77b9aaa1630bd393538946b0810142b1207a79ba89cba63d5ba8023139449528f2685b9a28282719188a1e01c2878af022aa1e6c38999750c42080492d233e72c78a751bedef54228540fb7115cddbc321bd8b399da01152c2f237f5b4277c0285b3a3e235f98b91a720d60246cf5c426585a47V3
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: 2023-10-20 13:02:42.323662000 +08:00
+  accessed_at: *1
+- !ruby/object:HTTP::Cookie
+  name: itctx
+  value: eyJjcCI6ImFkZmY2MzNmLTliZjQtNDg2Ny1iMTc4LTU2OGMyNTU2YTM0NCIsImRzIjoxNzYwMDcxNjk0NCwiZXgiOiIyMDIzLTEwLTIwIDEzOjI6NDMifQ|3iscslig0oi5im53849qe9u5kt|5GgP6ndR0QL_yIkdSKklBQ5PJ_M
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: &2 2023-10-20 13:02:43.252065000 +08:00
+  accessed_at: *2
+- !ruby/object:HTTP::Cookie
+  name: itcdq
+  value: '0'
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: false
+  expires: 
+  max_age: 
+  created_at: &3 2023-10-20 13:02:43.252242000 +08:00
+  accessed_at: *3
+- !ruby/object:HTTP::Cookie
+  name: aasp
+  value: F294E7C265FC156F0654E94AE47D999323E8FA6B5CC6055BD43DFE85BC8522E8A02CDC404793D8DFF04A43FD3397AC5C6BC79563E2D336F181F2B0A1BCE4FD68D8541DEDE17BEEBF942190248EEEDC8F8086C6584789F20A30E1339601E30F7EC78139843F80D98195A299E894593C8E57DC173DCF566206
+  domain: idmsa.apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: 2023-10-20 13:02:25.258337000 +08:00
+  accessed_at: 2023-10-20 13:02:41.296612000 +08:00
+- !ruby/object:HTTP::Cookie
+  name: DES5527903d797c8113a48c7475fc9622286
+  value: HSARMTKNSRVXWFla+mLyMhUMEU7+ZixuiOcdy/ngumHeufMJE8TCsTbTpzEIy8wDMx59WCBKcEG0k8pDSslnEQhQSi11AZv+AWzUoLHHPG6jR7JANT9nEv21CryiDcD9jhtKGjiPyByd9re5lnJmiGvGwAbwGgse/2KJgWyB9Z+Vl2HeHSMPRI5Qb/y+UbmW4n3qk68o3/HFEfJS336TvK6DxylGgUjADMKIHLITLg==SRVX
+  domain: idmsa.apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 2592000
+  created_at: &4 2023-10-20 13:02:42.323397000 +08:00
+  accessed_at: *4
+- !ruby/object:HTTP::Cookie
+  name: dqsid
+  value: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2OTc3NzgxNjIsImp0aSI6IlAxWUMwWXVRMUlKTGV3SnZKVHExS0EifQ.U_GTibT94qAhPjqImj6vl-denIY19ifE6TnqjZ46n00
+  domain: appstoreconnect.apple.com
+  for_domain: false
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 1800
+  created_at: &5 2023-10-20 13:02:43.251806000 +08:00
+  accessed_at: *5
