@@ -1,0 +1,61 @@
+---
+- !ruby/object:HTTP::Cookie
+  name: dslang
+  value: US-EN
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: &1 2024-01-17 11:16:49.678834000 +08:00
+  accessed_at: *1
+- !ruby/object:HTTP::Cookie
+  name: site
+  value: USA
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: &2 2024-01-17 11:16:49.679054000 +08:00
+  accessed_at: *2
+- !ruby/object:HTTP::Cookie
+  name: acn01
+  value: XBsERqch8bMqnZurR54GGlyUBZKI4dM/OIs41UtlAB4s0pdCtck=
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 31536000
+  created_at: 2024-01-17 11:14:33.137566000 +08:00
+  accessed_at: &3 2024-01-17 11:16:48.783807000 +08:00
+- !ruby/object:HTTP::Cookie
+  name: aasp
+  value: 39C9E3AF9175CEF41D6EAC0234EB7AA24470EFDCFC362CE2B00BB206B824AE76DF3993D70D174A8EF3AEA9789C8FD959521098E36F73C0795665A82FDDFD4E3E123D6483475739B33D4AA05034E8DAE9CCE9B6FA7D6272D7E3A0C5B1CAE4FB979F04E263F6143E01C941BE88D0A274FEFD61C50B4AF6F0C6
+  domain: idmsa.apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: 2024-01-17 11:14:32.212119000 +08:00
+  accessed_at: *3
+- !ruby/object:HTTP::Cookie
+  name: crsc
+  value: G66Et7phqT6wrDDcfH+Flx0uJXMvOtC4QsZLg7vWgN/1qlonj0Hq83gY1ZRWh/HFTXrCL2rS01ST2kcAHizTxESR9Q==
+  domain: idmsa.apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 900000
+  created_at: 2024-01-17 11:14:38.193698000 +08:00
+  accessed_at: *3
