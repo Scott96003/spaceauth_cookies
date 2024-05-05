@@ -1,0 +1,109 @@
+---
+- !ruby/object:HTTP::Cookie
+  name: dslang
+  value: US-EN
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: 2024-05-05 12:13:42.486781000 +08:00
+  accessed_at: &1 2024-05-05 12:13:42.489520000 +08:00
+- !ruby/object:HTTP::Cookie
+  name: site
+  value: USA
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: 2024-05-05 12:13:42.487005000 +08:00
+  accessed_at: *1
+- !ruby/object:HTTP::Cookie
+  name: acn01
+  value: 5YEjxtzlwSRdp+xkk0o0YQE4hQMo55wL8WKULgAj+SoBzigO
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 31536000
+  created_at: 2024-05-05 12:13:42.487815000 +08:00
+  accessed_at: *1
+- !ruby/object:HTTP::Cookie
+  name: myacinfo
+  value: DAWTKNV323952cf8084a204fb20ab2508441a07d02d323e4bfd5994de6229752d9442ed54709f8d6e2a5332440e4fb701e384643cffb7cbf419ead44195e09c97d7c224b5f5597492f7176b97a27edf19e945347c3a09cbeb0a99a56b5f2d129c2fe14a156fe2442f00252005ba3099c754c6efaed4662322cbd5f1fb944396d0e844542dc44fbd7cf966537d35b2b49bd9bad769f8eb11f06956541e2b0701836db9810d629662165ada72b4c653baad8a2ac34c687f9d4c8e76c21daa51b573acaad3a836a9a358359b502161ff501e0d75a1d73c21186c41073a9c89e875996ecfd4864a2c46b267e052eaaed583c74baf3ce9e81e5bb1edfda32a3a8fa884fd7513ff256e18cedffaa5a32ed6fe65e86cdf88481adb0589e8c97c64c7a19aeb393768ad11a192f839f117d9067425858e41004cbbdc150723c068bce6b9f0d3c08798d0fe7250a8aa8974ab6a14526447de5b4e1a95b66de049308f3b9cd928ba099d9c75514a0badbe6871d332737d0923f3395e24c33252ddaf5d2435ae5eaeacdaa6bb3d05fb1ddaa3a8678749784f1650efeba9b3497433d14e50c19dbaea9fa070cbe829da19990e4b75f8ef1c2ac6144eb3aa4157cb2228a3fe6635d96e5561e9474f71f2be011ed3402969460084e12a05b5fbea144098e8538464dbec59db87bca1053b4328060078604e54cf4bb2a45269ef9ae8c34246f053c3c21155c4a7307b211e302a51af31d47fdfd08532da8585a47V3
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: 2024-05-05 12:13:42.488264000 +08:00
+  accessed_at: *1
+- !ruby/object:HTTP::Cookie
+  name: itctx
+  value: eyJjcCI6ImUxYTI5ZTc0LWFlMWEtNGJmMC05MmZmLTNkMWI4NTM3NzY2OCIsImRzIjoxNjk4ODIwNDI4OCwiZXgiOiIyMDI0LTUtNSAxMjoxMzo0MyJ9|v75bmsobfd2l5qr3qd5506p3nd|pEDi71fcsQgs2aLnFV7YhxBWrUk
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: &2 2024-05-05 12:13:43.431441000 +08:00
+  accessed_at: *2
+- !ruby/object:HTTP::Cookie
+  name: itcdq
+  value: '0'
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: false
+  expires: 
+  max_age: 
+  created_at: 2024-05-04 15:16:20.582136000 +08:00
+  accessed_at: *1
+- !ruby/object:HTTP::Cookie
+  name: aasp
+  value: 9F4BDDAB653CA710623EAB2B20C2B76B02E0440A9468DD182857388F6AEE8CF1E6D7EDAF34A0C36125B3CC92C9E63154988E5F4E2FDACE6E916D8697C7666ACB149997A5DC57567920334176B3E6FD7FCB2FBF41C8552262664A1EBCEC24842E0931B8D8AF94A9DF7742DB301399918EB9B2C9FB748ADA98
+  domain: idmsa.apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: 2024-05-05 12:13:40.961564000 +08:00
+  accessed_at: &3 2024-05-05 12:13:40.966945000 +08:00
+- !ruby/object:HTTP::Cookie
+  name: DES50a2f02c31b8b0430e0bd0bd70f5760f5
+  value: HSARMTKNSRVXWFlalQLDxuXzcFWRq3SBohUWzcrFJBpjUcHslfD0uKzHdIkp3sy0t22W38BqyOhPzGEMdUjiCSLlxVd6ArkJ1NGOcHhC954wZSUeZKWXqzCvrTIFITVjsXa+iuEM2H3sm5cjdX6CwZk0BKDRpk8+6S0zO7/IvpASXKCZD2TVXHVwycZf7j5jNh9w8Z1hPiZOcH4TmJaKYCRR0a9XKyhxWqxAzhOqhS0zkxg=SRVX
+  domain: idmsa.apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 2592000
+  created_at: 2024-05-04 15:16:19.238104000 +08:00
+  accessed_at: *3
+- !ruby/object:HTTP::Cookie
+  name: dqsid
+  value: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTQ4ODI0MjIsImp0aSI6Inl2YlpqX1lVU1JRZGx2bWlSS0dqSncifQ.D2wPartCXImTubGlT_HNsnGiiLoG7Hi1BptBecO5xr0
+  domain: appstoreconnect.apple.com
+  for_domain: false
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 1800
+  created_at: &4 2024-05-05 12:13:43.431160000 +08:00
+  accessed_at: *4
