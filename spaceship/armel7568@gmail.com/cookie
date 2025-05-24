@@ -9,8 +9,8 @@
   httponly: true
   expires: 
   max_age: 
-  created_at: &1 2025-05-21 12:14:28.257456000 +08:00
-  accessed_at: *1
+  created_at: 2025-05-24 14:14:30.256904000 +08:00
+  accessed_at: &1 2025-05-24 14:14:30.284108000 +08:00
 - !ruby/object:HTTP::Cookie
   name: site
   value: USA
@@ -21,11 +21,35 @@
   httponly: true
   expires: 
   max_age: 
-  created_at: &2 2025-05-21 12:14:28.257717000 +08:00
+  created_at: 2025-05-24 14:14:30.257220000 +08:00
+  accessed_at: *1
+- !ruby/object:HTTP::Cookie
+  name: myacinfo
+  value: DAWTKNV323952cf8084a204fb20ab2508441a07d02d390bd9b460959647474859be42ef431635927ae82247dd69bccfd836a162cc8a6b61c2c8221d85521068da6c7adf17a4b2c08b0bc7ec286be81ab95b0e0c4f2ae68cbbddea823d91ee7bd0d79903db19bf4997871843e6b244de025426789bd9830db47950439ec610c2e11bb9331713fd7de85992aff94d930dc1be8744ee62036742021bc80b765de74490a694cd760337da0c0a407b48177ac30690576dd62f9021ad0d0347b025fbf28d052ceafd15fe117d4741663ccce15a6893faba452c6a7458c659548fbdcfce8c31f53c1e28053f7e2c5b63332e93676261ca9fdf0d3081232e7d62c7aa1bcec18dabd5a89f464cc9b88e056276cae5ee51589a351495588c21b9a8a4e3d15a9037917601f35ef0eb1fc98bf64c7e7a1d047acf732532b1d0c843050fb537726fe13ddd651253f92089e109d9beb8070949aa1496d74eecba1a336e01436c8e79a2888b65bccb8d9ea77962808797b0587a8450193ac76a8e8e861149cb73e59d119d339e264f126c2b50efaef84c13acb46edb2f566498caaa14df1b8d5503ea96b708df24b630c58614d5bf43bb9278835c1a3d3d4d2eca4920f8194d7f2e6643e66618ac5eb157735d2a7b14a16e07a74d110e39c6b7a4e409d776e3f9c50ad7ec62fc5d6168c90dbab1c5bc9356cbc186befbea394aad23363018c7288ddd56390b1f419fbb0ae809daab1c45600892e42844794a9ed9f7ffcc0c97322b1bc70c2fa25af1cc70ff51167f6c3e84a79e91c9d52efd1ff491cf56cadbc625a425cf4a2dbc4a62cf055e82872c04683bcfd928b14046f6e7ae0a664492370003d15cabc62ba8d2d137346ada74864413b72423b38876b9d66cda6d0673eab39e43f560032c6f1b3eb99eddec7053e70a4df040f4afdbe518f2fc6f1d5b4fb44c4bf43da1c37ff4181fec1c80846294e9348c739c80d2ec23072f4b26e8e777e96d60c4e64585a47V3
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: 2025-05-24 14:14:30.258057000 +08:00
+  accessed_at: *1
+- !ruby/object:HTTP::Cookie
+  name: itcdq
+  value: '0'
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: false
+  expires: 
+  max_age: 
+  created_at: &2 2025-05-24 14:14:40.687651000 +08:00
   accessed_at: *2
 - !ruby/object:HTTP::Cookie
   name: aasp
-  value: C3FB1CABDB3AE0DE94C0925FBEC7AC86BFF7E5FF7422653DF185769E42D3F25A9FFF597E8013A24B735B363FA2967400BD750DC6C8017048E755CFCC4D672AB1C2757F5D89E35C30F7ADEC8AEC4CAA98953EB45AF012E60FEB45A0410A8B56CAA51C34F166B8C055137A1CFA68384200055FF4BB9A6B014C
+  value: 0A5E20533C62B649DE1EFE27B80AF1D3DED6A3BE6F6313D34139A4907A9C2F00185F27B8FE11DD09BCFA9C43A8ACD70208BE8CB598FFE319A871B78A513798D00B859C4E9270CEA6DBA70807FB19174028D8AABD9CD1B4D7BD56AA9DBD03AD006D28C55A096E36E65D810B049616759412AC2C0B5437BDFB
   domain: idmsa.apple.com
   for_domain: true
   path: "/"
@@ -33,5 +57,29 @@
   httponly: true
   expires: 
   max_age: 
-  created_at: 2025-05-21 12:10:55.244832000 +08:00
-  accessed_at: 2025-05-21 12:14:27.434439000 +08:00
+  created_at: 2025-05-24 14:13:07.172420000 +08:00
+  accessed_at: 2025-05-24 14:14:29.277426000 +08:00
+- !ruby/object:HTTP::Cookie
+  name: DES514a981cc973c94ad9e154bd7aec53c79
+  value: HSARMTKNSRVXWFlasIlWE+irfahmymUQrrTzk6CgTcdz3OEic7qkn57wHwADXHkn/FIJBZkuQwPGaz/LxjWhf22V+10nSr2ZRNojcBbobyuFmQbH7B1DblH+GUfu1Eaq+jPszPcXTnIGodDZ7/8HcOA3JyPN1uwxw6mmP1i0WL7LIeO3/PBksPSJ3PB4TqtkkI8yKP0=SRVX
+  domain: idmsa.apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 2592000
+  created_at: &3 2025-05-24 14:14:30.257766000 +08:00
+  accessed_at: *3
+- !ruby/object:HTTP::Cookie
+  name: dqsid
+  value: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDgwNjcyNzAsImp0aSI6ImE4WEpybHM3Nl9QV2RZbl9OTk5IWGcifQ.oJOMDBugYwjMHvvHKbbIJq8-l_2GryMpip-lWBk-8YM
+  domain: appstoreconnect.apple.com
+  for_domain: false
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 1800
+  created_at: &4 2025-05-24 14:14:40.687417000 +08:00
+  accessed_at: *4
