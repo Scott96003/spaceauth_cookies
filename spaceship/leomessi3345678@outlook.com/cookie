@@ -1,0 +1,37 @@
+---
+- !ruby/object:HTTP::Cookie
+  name: dslang
+  value: US-EN
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: &1 2025-09-24 13:11:07.473892000 +08:00
+  accessed_at: *1
+- !ruby/object:HTTP::Cookie
+  name: site
+  value: USA
+  domain: apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: &2 2025-09-24 13:11:07.474119000 +08:00
+  accessed_at: *2
+- !ruby/object:HTTP::Cookie
+  name: aasp
+  value: 8D72B4CFD715A6BE64FB5FFD24C32C6E3DBE85B72B9F9D7C1579B4958ECFA672779814D2C9D6FC4A242FF58B8575216B3354DE6EDBD51EEE650562B02522866DAA1E3EE103B48D7CAA874423008024FE1D48712F98465CC4F0D8B293AA894F0B749F89490E794214ADE5FF067151426DDB2B7E0D3470178A
+  domain: idmsa.apple.com
+  for_domain: true
+  path: "/"
+  secure: true
+  httponly: true
+  expires: 
+  max_age: 
+  created_at: 2025-09-24 13:08:55.365294000 +08:00
+  accessed_at: 2025-09-24 13:11:06.433200000 +08:00
